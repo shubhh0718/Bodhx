@@ -1,0 +1,6 @@
+{
+  "name": "BodhX",
+  "description": "Turn your app ideas into structured blueprints with architecture, UI screens, features, and tech stacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
